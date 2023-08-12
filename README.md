@@ -1,4 +1,4 @@
 # Navid200  
 
-## [xDrip](./xDrip/README.md)  
+## [xDrip](https://navid200.github.io/xDrip/README.md)  
   
