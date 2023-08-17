@@ -8,4 +8,3 @@ It is maintained by volunteers.
   
 xDrip is not FDA approved.  If you choose to use it, you can.  But, it will be your responsibility.  
 The xDrip developers earn no financial, or indirect, benefits if you choose to use it.  
-  
