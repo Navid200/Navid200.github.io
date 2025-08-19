@@ -5,7 +5,7 @@ description: "Comprehensive guides and documentation for xDrip — an open-sourc
 
 # Navid200  
 
-# [xDrip](https://navid200.github.io/xDrip/)  
+## [xDrip](https://navid200.github.io/xDrip/)  
 xDrip is an open source Android app.  
 It was created years ago by a diabetic who was not happy with the available apps for monitoring her blood glucose.  
 It has been continuously enhanced over the years.  
