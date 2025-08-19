@@ -1,5 +1,5 @@
 ---
-title: "xDrip Documentation Hub"
+title: "Navid200 Hub"
 description: "Comprehensive guides and documentation for xDrip — an open-source Android CGM app to monitor glucose, customize alerts, manage Nightscout sync, and more."
 ---
 
